@@ -10,6 +10,6 @@ RUN npm install
 
 # Bundle app source
 COPY . /usr/src/app
-
+i am learning somethisngssss
 EXPOSE 8888 8889
 CMD [ "npm", "run", "serve" ]
